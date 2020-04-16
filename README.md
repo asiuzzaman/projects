@@ -1,2 +1,0 @@
-# projects
-For fun purpose.
